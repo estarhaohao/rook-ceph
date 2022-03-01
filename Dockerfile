@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.7.11
+FROM rook/ceph:v1.8.6
